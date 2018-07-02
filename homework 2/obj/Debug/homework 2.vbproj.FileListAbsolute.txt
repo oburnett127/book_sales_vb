@@ -1,0 +1,30 @@
+F:\Visual Programming\homework\homework 2\homework 2\bin\Debug\homework 2.exe
+F:\Visual Programming\homework\homework 2\homework 2\bin\Debug\homework 2.pdb
+F:\Visual Programming\homework\homework 2\homework 2\bin\Debug\homework 2.xml
+F:\Visual Programming\homework\homework 2\homework 2\obj\Debug\ResolveAssemblyReference.cache
+F:\Visual Programming\homework\homework 2\homework 2\obj\Debug\homework_2.Form1.resources
+F:\Visual Programming\homework\homework 2\homework 2\obj\Debug\homework_2.Resources.resources
+F:\Visual Programming\homework\homework 2\homework 2\obj\Debug\homework 2.exe
+F:\Visual Programming\homework\homework 2\homework 2\obj\Debug\homework 2.xml
+F:\Visual Programming\homework\homework 2\homework 2\obj\Debug\homework 2.pdb
+F:\Visual Programming\homework\homework 2\homework 2\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Visual Programming\homework\homework 2\homework 2\obj\Debug\GenerateResource-ResGen.write.1.tlog
+H:\Visual Programming\homework\homework 2\homework 2\obj\Debug\homework 2.exe
+H:\Visual Programming\homework\homework 2\homework 2\obj\Debug\homework 2.xml
+H:\Visual Programming\homework\homework 2\homework 2\obj\Debug\homework 2.pdb
+H:\Visual Programming\homework\homework 2\homework 2\bin\Debug\homework 2.exe
+H:\Visual Programming\homework\homework 2\homework 2\bin\Debug\homework 2.pdb
+H:\Visual Programming\homework\homework 2\homework 2\bin\Debug\homework 2.xml
+H:\Visual Programming\homework\homework 2\homework 2\obj\Debug\ResolveAssemblyReference.cache
+H:\Visual Programming\homework\homework 2\homework 2\obj\Debug\homework_2.Form1.resources
+H:\Visual Programming\homework\homework 2\homework 2\obj\Debug\homework_2.Resources.resources
+H:\Visual Programming\homework\homework 2\homework 2\obj\Debug\GenerateResource-ResGen.read.1.tlog
+H:\Visual Programming\homework\homework 2\homework 2\obj\Debug\ResGen.read.1.tlog
+H:\Visual Programming\homework\homework 2\homework 2\obj\Debug\GenerateResource-ResGen.write.1.tlog
+H:\Visual Programming\homework\homework 2\homework 2\obj\Debug\ResGen.write.1.tlog
+C:\Users\Don\Documents\user 1\Spring_2011_Visual_Programming\homework\homework 2\homework 2\obj\Debug\homework 2.exe
+C:\Users\Don\Documents\user 1\Spring_2011_Visual_Programming\homework\homework 2\homework 2\obj\Debug\homework 2.xml
+C:\Users\Don\Documents\user 1\Spring_2011_Visual_Programming\homework\homework 2\homework 2\obj\Debug\homework 2.pdb
+C:\coursework\homework 2\homework 2\obj\Debug\homework 2.exe
+C:\coursework\homework 2\homework 2\obj\Debug\homework 2.xml
+C:\coursework\homework 2\homework 2\obj\Debug\homework 2.pdb

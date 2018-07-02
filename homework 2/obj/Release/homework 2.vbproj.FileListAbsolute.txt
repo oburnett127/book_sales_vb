@@ -1,0 +1,10 @@
+F:\Visual Programming\homework\homework 2\homework 2\bin\Release\homework 2.exe
+F:\Visual Programming\homework\homework 2\homework 2\bin\Release\homework 2.pdb
+F:\Visual Programming\homework\homework 2\homework 2\bin\Release\homework 2.xml
+F:\Visual Programming\homework\homework 2\homework 2\obj\Release\ResolveAssemblyReference.cache
+F:\Visual Programming\homework\homework 2\homework 2\obj\Release\homework_2.Form1.resources
+F:\Visual Programming\homework\homework 2\homework 2\obj\Release\homework_2.Resources.resources
+F:\Visual Programming\homework\homework 2\homework 2\obj\Release\homework 2.vbproj.GenerateResource.Cache
+F:\Visual Programming\homework\homework 2\homework 2\obj\Release\homework 2.exe
+F:\Visual Programming\homework\homework 2\homework 2\obj\Release\homework 2.xml
+F:\Visual Programming\homework\homework 2\homework 2\obj\Release\homework 2.pdb
